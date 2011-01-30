@@ -1,4 +1,4 @@
-MD5CheckSum Readme
+Readme
 ==================
 
 The program calculates the MD5 Checksum for a file and compares
@@ -9,12 +9,10 @@ Example
 
 You are provided with a .zip file:
 
-*[.rom.zip]() -- `MD5: d41d8cd98f00b204e9800998ecf8427e`
+[rom.zip]() -- `MD5: d41d8cd98f00b204e9800998ecf8427e`
 
-
-Contributing
-------------
-
+Use the MD5CheckSum program to check the provided MD5
+checksum against the downloaded file´s checksum.
 
 Installation
 -----------
@@ -30,11 +28,3 @@ Usage
     3. Paste the provided MD5 from the source of the file into the lower text field.
     			"d41d8cd98f00b204e9800998ecf8427"
     4. The background of the textfields becomes green if the checksums match, otherwise red.
-
-Contributing
-------------
-
-1. Fork it.
-2. Create a branch (`git checkout -b my_markup`)
-3. Commit your changes (`git commit -am "Added Snarkdown"`)
-4. Push to the branch (`git push origin my_markup`)
