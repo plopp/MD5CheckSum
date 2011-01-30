@@ -1,6 +1,3 @@
-MD5CheckSum Readme
-==================
-
 The program calculates the MD5 Checksum for a file and compares
 it to a given MD5 checksum string.
 
@@ -10,16 +7,10 @@ Example
 You are provided with a .zip file:
 
 *[.rom.zip]() -- `MD5: d41d8cd98f00b204e9800998ecf8427e`
-
-
-Contributing
-------------
-
-
 Installation
 -----------
 
-		Run the .jar.
+Run the .jar.
 
 Usage
 -----
