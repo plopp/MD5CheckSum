@@ -1,23 +1,23 @@
 Readme
 ==================
 
-The program calculates the MD5 Checksum for a file and compares
+The program calculates the MD5 checksum for a file and compares
 it to a given MD5 checksum string.
 
 Example
 -------
 
-You are provided with a .zip file:
+You are provided with a .zip file and its MD5 checksum:
 
 [rom.zip]() -- `MD5: d41d8cd98f00b204e9800998ecf8427e`
 
 Use the MD5CheckSum program to check the provided MD5
-checksum against the downloaded file´s checksum.
+checksum against the downloaded files checksum.
 
 Installation
 -----------
 
-		Run the .jar.
+		Run the dist>MD5CheckSumCheck.jar.
 
 Usage
 -----
